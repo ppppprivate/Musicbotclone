@@ -6,7 +6,7 @@ from Clonify import app
 
 #--------------------------
 
-MUST_JOIN = "PURVI_SUPPORT"
+MUST_JOIN = "THE_INCRICIBLE"
 
 #--------------------------
 

@@ -156,13 +156,13 @@ STREAMI_PICS = [
 
 
 HELP_IMG_URL = getenv(
-    "HELP_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg"
+    "HELP_IMG_URL", "https://files.catbox.moe/fu6jk3.jpg"
 )
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/fu6jk3.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/znwjyv.jpg")
 PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/26nzoq.jpg")
-PLAYLIST_IMG_URL = "https://files.catbox.moe/f2s4ws.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/z0gh23.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/4q64a8.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/nms68p.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/2y5o3g.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/2y5o3g.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
